@@ -4,20 +4,20 @@
 
 <table>
     <tr>
-    <td><center><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\雷达全场定位.png"></a>
-    <td><center><a href="http://www.rcstech.org/motor-knowledge"><img src="Files\团队信息库\RM2020技术讲座\海报\电机基本知识（一）.png"></a>
+    <td><center><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\雷达全场定位.png" style="25%"></a>
+    <td><center><a href="http://www.rcstech.org/motor-knowledge"><img src="Files\团队信息库\RM2020技术讲座\海报\电机基本知识（一）.png" style="25%"></a>
     <tr>
-    <td><center><a href="http:///www.rcstech.org/super-capacitor"><img src="Files\团队信息库\RM2020技术讲座\海报\超级电容同步BUCK电路参数的计算.png"></a>
-    <td><center><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\可解释的CNN网络.jpg"></a>
+    <td><center><a href="http:///www.rcstech.org/super-capacitor"><img src="Files\团队信息库\RM2020技术讲座\海报\超级电容同步BUCK电路参数的计算.png" style="25%"></a>
+    <td><center><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\可解释的CNN网络.jpg" style="25%"></a>
     <tr>
-    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\步兵上的姿态控制.png"></a>
-    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\硬件标准化与系统设计.png"></a>
+    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\步兵上的姿态控制.png" style="25%"></a>
+    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\硬件标准化与系统设计.png" style="25%"></a>
     <tr>
-    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\有限元分析基础.png"></a>
-    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\人机工程分析.png"></a>
+    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\有限元分析基础.png" style="25%"></a>
+    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\人机工程分析.png" style="25%"></a>
     <tr>
-    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\OpenCV识别能量机关.png"></a>
-    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\uC_OSIII多任务系统介绍.png"></a>
+    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\OpenCV识别能量机关.png" style="25%"></a>
+    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\uC_OSIII多任务系统介绍.png" style="25%"></a>
 </table>
 
 
