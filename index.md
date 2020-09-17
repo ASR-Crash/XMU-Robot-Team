@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# 厦门大学机器人队-项目管理文档
 
-You can use the [editor on GitHub](https://github.com/ASR-Crash/xmurobot.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 战队信息库
+- [团队架构](TeamStructure.md)
+- [团队章程](TeamCharter.md)
+- [队员信息库](TeamInformationBase.md)
+- [成果信息库](AchievementInformationBase.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 项目进度
+- [时间轴规划](TimelineSchedule.md)
+- [进度记录](ProgressRecord.md)
+- [进度分析](ScheduleAnalysis.md)
 
-### Markdown
+### 成本预算
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [团队预算表](TeamBudget.md)
+- [支出流水表](ExpenditureRecord.md)
+- [兵种BOM表](ArmsBOM.md)
+- [成本分析](CostAnalysis.md)
 
-```markdown
-Syntax highlighted code block
+### 团队事项
+- [会议记录](MeetingMinutes.md)
+- [团队建设](TeamBuilding.md)
+- [其他内容](OtherContent.md)
 
-# Header 1
-## Header 2
-### Header 3
+----
+###### 更新时间：2020.08.03
+----
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ASR-Crash/xmurobot.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="Pictures\logo\logo2.png" style="zoom: 25%;" />
