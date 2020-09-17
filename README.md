@@ -3,7 +3,7 @@
 ### 战队信息库
 - [团队架构](TeamStructure.md)
 - [团队章程](TeamCharter.md)
-- [队员信息库](TeamInformationBase.html)
+- [队员信息库](TeamInformationBase.htm)
 - [成果信息库](AchievementInformationBase.md)
 
 ### 项目进度
