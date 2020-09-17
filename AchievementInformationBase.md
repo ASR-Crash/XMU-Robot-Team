@@ -17,12 +17,12 @@
 
     <tr>
     <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\有限元分析基础.png"></a>
-    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\OpenCV识别能量机关.png"></a>
+    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\人机工程分析.png"></a>
+    
 
     <tr>
+    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\OpenCV识别能量机关.png"></a>
     <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\uC_OSIII多任务系统介绍.png"></a>
-    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\人机工程分析.png"></a>
-
 </table>
 
 
