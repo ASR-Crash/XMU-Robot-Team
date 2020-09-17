@@ -27,4 +27,4 @@
 ###### 更新时间：2020.09.17
 ----
 
-<img src="Pictures\logo\logo2.png" style="zoom: 25%;" />
+<img src="Pictures\logo\logo2.png" style="zoom: 100%;" />
