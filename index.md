@@ -3,7 +3,7 @@
 ### 战队信息库
 - [团队架构](TeamStructure.md)
 - [团队章程](TeamCharter.md)
-- [队员信息库](TeamInformationBase.md)
+- [队员信息库](TeamInformationBase.htm)
 - [成果信息库](AchievementInformationBase.md)
 
 ### 项目进度
@@ -24,7 +24,7 @@
 - [其他内容](OtherContent.md)
 
 ----
-###### 更新时间：2020.08.03
+###### 更新时间：2020.09.17
 ----
 
-<img src="Pictures\logo\logo2.png" style="zoom: 25%;" />
+<img src="Pictures\logo\logo2.png" style="zoom: 100%;" />
