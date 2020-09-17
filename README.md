@@ -14,7 +14,7 @@
 ### 成本预算
 
 - [团队预算表](TeamBudget.md)
-- [支出流水表](ExpenditureRecord.md)
+- [支出流水表](ExpenditureRecord.htm)
 - [兵种BOM表](ArmsBOM.md)
 - [成本分析](CostAnalysis.md)
 
@@ -24,7 +24,7 @@
 - [其他内容](OtherContent.md)
 
 ----
-###### 更新时间：2020.09.17
+###### 更新时间：2020.09.18
 ----
 
 <img src="Pictures\logo\logo2.png" style="zoom: 50%;" />
