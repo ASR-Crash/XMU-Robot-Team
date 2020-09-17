@@ -12,8 +12,8 @@
     <td><center><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\可解释的CNN网络.jpg"></a>
     </tr>
     <tr>
-    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\步兵上的姿态控制.png" width="500"></a>
-    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\硬件标准化与系统设计.png" width="500"</a>
+    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\步兵上的姿态控制.png"></a>
+    <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\硬件标准化与系统设计.png"></a>
     </tr>
     <tr>
     <td><a href="http://www.rcstech.org/"><img src="Files\团队信息库\RM2020技术讲座\海报\有限元分析基础.png"></a>
