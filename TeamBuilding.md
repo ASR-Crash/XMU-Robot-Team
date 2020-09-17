@@ -12,5 +12,5 @@
 
 ## 团建照片
 
-[厦门大学 RoboMaster 团建照片](Files/团队事项/团队建设/厦门大学 RoboMaster 团建照片)
+[厦门大学 RoboMaster 团建照片](Files/团队事项/团队建设/厦门大学 RoboMaster 团建照片.zip)
 
